@@ -1,0 +1,9 @@
+  .footer{
+    background-color: #01367c ;
+  }
+  .footer p{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+  }
