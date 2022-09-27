@@ -1,3 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper{
+  display: flex;
+  justify-content: space-around;
+  justify-content: row;
+  background-color: #01367c ;
+  color: #fb3333;
+  padding-bottom: 40px;
+  padding-top: 40px;
+  margin-bottom: 50px;
+}
+.wrapper h1{
+  
+  font-size:50px;
+}
+.logo{
+  max-width: 200px;
+}
   .footer{
     background-color: #01367c ;
   }
