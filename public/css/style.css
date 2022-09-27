@@ -20,6 +20,40 @@
 .logo{
   max-width: 200px;
 }
+
+.content{
+  display: flex;
+justify-content: center;
+align-items:  center;
+flex-direction: column;
+
+margin-top: 50px;
+}
+.content h1{
+  color:
+  #01367c;
+  margin: 15px;
+}
+.contentwrapper{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 25px;
+  
+}
+.content h1{
+  font-family: sans-serif;
+  font-weight: bold;
+  display: block;
+}
+.content p{
+  font-size: x-large;
+  max-width: 500px;
+  margin: 50px;
+  
+  color: #01367c;
+}
   .footer{
     background-color: #01367c ;
   }
