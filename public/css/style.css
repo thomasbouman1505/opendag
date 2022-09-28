@@ -14,7 +14,7 @@
   margin-bottom: 50px;
 }
 .wrapper h1{
-  
+  font-family: Fellix,"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size:50px;
 }
 .logo{
@@ -33,6 +33,7 @@ margin-top: 50px;
   color:
   #01367c;
   margin: 15px;
+  font-family: Fellix,"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 .contentwrapper{
   display: flex;
@@ -55,16 +56,12 @@ margin-top: 50px;
   border: 3px solid #fb3333;
   
 }
-.content h1{
-  font-family: sans-serif;
-  font-weight: bold;
-  display: block;
-}
+
 .content p{
   font-size: x-large;
   max-width: 500px;
   margin: 50px;
-  
+  font-family: Fellix,"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   color: #01367c;
 }
 .foto1{
@@ -95,6 +92,7 @@ margin-top: 50px;
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;
+    font-family: Fellix,"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   }
 
   .contentwrapper1{
@@ -119,6 +117,7 @@ margin-top: 50px;
     color:
     #fb3333;
     margin: 10px;
+    font-family: Fellix,"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   }
   .content1 h1{
     font-family: sans-serif;
@@ -129,7 +128,7 @@ margin-top: 50px;
     font-size: x-large;
     max-width: 500px;
     margin: 50px;
-    
+    font-family: Fellix,"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fb3333;
   }
 
@@ -165,7 +164,7 @@ margin-top: 50px;
     font-size: x-large;
     max-width: 500px;
     margin: 50px;
-    
+    font-family: Fellix,"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #01367c;
   }
 
