@@ -26,6 +26,7 @@
     </div>
   </header>
   <body>
+    
     <div class="contentwrapper">
     <div class="content">
         <h1>Vakken</h1>
@@ -35,6 +36,7 @@
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tenetur impedit perferendis architecto nulla ex veritatis sed necessitatibus illum officia aut velit delectus, fugiat sunt, in ipsa assumenda! Amet, quas aliquid.</p>
       </div>
     </div>
+    <img src="image/curio2.png" alt="curio" class="curio">
     <div class="contentwrapper">
     <div class="content">
       <h1>Je Rooster</h1>
